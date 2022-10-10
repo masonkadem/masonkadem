@@ -1,9 +1,5 @@
 ### Hi, I'm Mason 👋
 
-<!--
-**masonkadem/masonkadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently building a framework for large-scale physiological testing online.
 - 🌱 I’ve taught statistics, machine learning and engineering to 100s of students at McMaster and Western University
