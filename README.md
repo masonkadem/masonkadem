@@ -7,4 +7,5 @@
 - I'm the Head of AI at Vascular AI
 - I'm the Author of ['Pearls and Perils of Machine Learning'](https://leanpub.com/pearlsandperilsofml)
 and ['Outthink: The Engineering and Neuroscience of Cognition'](https://leanpub.com/outthink)
+
 I'm easily reached via email.
