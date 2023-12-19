@@ -1,4 +1,4 @@
-### Hi, I'm Mason 👋
+### Hi, I'm Mason 👋 https://linktr.ee/masonkadem
 
 Professional Journey:
 
