@@ -2,15 +2,15 @@
 
 Professional Journey:
 
--🔭 I’m currently building infrastructure for large-scale health research online as the CEO and CTO of Ro (researchonline.ca).
+- 🔭 I’m currently building infrastructure for large-scale health research online as the CEO and CTO of Ro (researchonline.ca).
 
--🧠 I'm the Head of AI and Datascience at McMaster's Translational Vascular AI (vascularai.ca)
+- 🧠 I'm the Head of AI and Datascience at McMaster's Translational Vascular AI (vascularai.ca)
 
--🎓 I'm a college Professor of computer science
+- 🎓 I'm a college Professor of computer science
 
--🚀 I'm an independent researcher with interests that straddle applied AI, spaceflight, cognition and medicine
+- 🚀 I'm an independent researcher with interests that straddle applied AI, spaceflight, cognition and medicine
 
--📚 I’ve taught ML/AI, statistics, physiology, biomedical commercialization, intellectual property law, leadership, computer science, programming, cyber/information security, and design projects in engineering to 1000s of students at multiple universities and colleges.
+- 📚 I’ve taught ML/AI, statistics, physiology, biomedical commercialization, intellectual property law, leadership, computer science, programming, cyber/information security, and design projects in engineering to 1000s of students at multiple universities and colleges.
 
 - 🤝 I'm always happy to collaborate with government, industry and academia.
  
