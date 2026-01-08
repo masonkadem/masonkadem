@@ -2,9 +2,9 @@
 
 Professional Journey:
 
-- 🧠 Formely the Head of Datascience at McMaster's Translational Vascular AI (vascularai.ca), and Founder at Research online (researchonline.ca)
+- 🧠 Previously, a CS College Prof and the Head of AI at McMaster's Translational Vascular AI (vascularai.ca), and Founder at Research online (researchonline.ca)
 
-- 🚀 I'm a CS College Prof and researcher with interests that straddle applied AI, spaceflight, cognition and medicine
+- 🚀 with interests that straddle applied AI, spaceflight, cognition and medicine
 
 - 📚 I’ve taught ML/AI, statistics, physiology, biomedical commercialization, intellectual property law, leadership, computer science, programming, cyber/information security, digital health and design projects in engineering to 1000s of students at multiple universities and colleges.
 
